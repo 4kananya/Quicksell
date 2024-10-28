@@ -41,10 +41,9 @@ Experience the application [here](https://janhavi-quicksell-assignment.vercel.ap
 
 ## Repository
 
-Find the source code on [GitHub](https://github.com/janhavisri1410/Quicksell-Frontend-Assignment).
+Find the source code on [GitHub](https://github.com/4kananya/Quicksell).
 
 ## Tech Stack
 
 - **JavaScript**
 - **React JS**
-- **SCSS (CSS Preprocessor)**
