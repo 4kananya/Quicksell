@@ -85,7 +85,7 @@ function App() {
       <main
         style={{
           display: "flex",
-          flexWrap: "nowrap",
+          flexWrap: "wrap",
           padding: "2rem",
           gap: "2rem",
           overflow: "auto",
