@@ -1,0 +1,24 @@
+.OnlineStatus {
+    width: 8px;
+    height: 8px;
+    right: 0;
+    border-radius: 500px;
+    border: 1px solid white;
+    position: absolute;
+    bottom: 0;
+}
+
+.Profile {
+    width: 25px;
+    height: 25px;
+    border-radius: 500px;
+    color: white;
+    font-size: smaller !important;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}

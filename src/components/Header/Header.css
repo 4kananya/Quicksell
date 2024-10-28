@@ -1,0 +1,88 @@
+.Header {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+  padding: 0.75rem 2rem;
+}
+
+.Display_button {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  padding: 0.38rem 1rem;
+  font-size: 0.90rem;
+  font-weight: 200;
+  color: #000;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  gap: 0.5rem;
+  width: 150px; 
+}
+
+.Display_button_secondary {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  padding: 0.38rem 1rem;
+  font-size: 0.90rem;
+  font-weight: 200;
+  color: #000;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  gap: 0.5rem;
+  width: 100px; 
+}
+
+.DropdownBox {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  color: #808080;
+  border-radius: 0.5rem;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  z-index: 1;
+  width: 280px;
+}
+
+.DropdownBox_secondary {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  color: #808080;
+  border-radius: 0.5rem;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  z-index: 1;
+  width: 120px;
+}
+
+
+.t-5 {
+  top: 3.0rem;
+}
+
+.t-4 {
+  top: 3rem;
+}
+
+.t-7 {
+  top: 7rem;
+}
+
+.l-4 {
+  left: 2rem;
+}
+
+.l-8 {
+  left: 9rem;
+}
